@@ -1,0 +1,3 @@
+if(number of commit>>10)
+{ exit
+};
